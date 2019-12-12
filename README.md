@@ -29,18 +29,23 @@ Campaign update.
 - Copy:
   - Heading: The Gymnasium Blog
   - Text (multi-line): Learn web design, UX, prototyping, and career skills for free.
-  - Text (single-line): Learn web design and career skills.
+  - ~~Text (single-line): Learn web design and career skills.~~
 - Background Image: [gym-banner-evergreen-social-medium.png](homepage-background-image/gym-banner-evergreen-social-medium.png) found in [homepage-background-image](homepage-background-image/) folder
 
 ### Comps
 
+#### Standard
+
   - See multi-line comp [gym-medium-homepage-learn-web-design-for-free.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-for-free.png) for wider layouts
   - See multi-line comp [gym-medium-homepage-learn-web-design-for-free.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-for-free-mobile.png) for smaller width layouts
-  - See single-line comp [gym-medium-homepage-learn-web-design.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design.png) for wider layouts
-  - See single-line comp [gym-medium-homepage-learn-web-design-mobile.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-mobile.png) for smaller width layouts
-- [Alternate background image](homepage-background-image-alt/gym-banner-evergreen-social-medium-alt.png) found in [homepage-background-image-alt](homepage-background-image-alt/) folder
-  - See single-line comp [gym-medium-homepage-learn-web-design-alt.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-alt.png) with alternate background image for wider layouts
-  - See single-line comp [gym-medium-homepage-learn-web-design-alt-mobile.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-alt-mobile.png) with alternate background image for smaller width layouts
+  - ~~See single-line comp [gym-medium-homepage-learn-web-design.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design.png) for wider layouts~~
+  - ~~See single-line comp [gym-medium-homepage-learn-web-design-mobile.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-mobile.png) for smaller width layouts~~
+
+#### Alternate
+
+- ~~[Alternate background image](homepage-background-image-alt/gym-banner-evergreen-social-medium-alt.png) found in [homepage-background-image-alt](homepage-background-image-alt/) folder~~
+  - ~~See single-line comp [gym-medium-homepage-learn-web-design-alt.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-alt.png) with alternate background image for wider layouts~~
+  - ~~See single-line comp [gym-medium-homepage-learn-web-design-alt-mobile.png](copy-and-background-comps/learn-web-design-comps/gym-medium-homepage-learn-web-design-alt-mobile.png) with alternate background image for smaller width layouts~~
 
 ### Notes
 
